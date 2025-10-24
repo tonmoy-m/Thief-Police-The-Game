@@ -45,6 +45,20 @@ Walkthrough:
 
 ## Screenshot
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b242c7d0-87b0-459c-9ac9-07e3af9dc27c" width="240" alt="Screenshot 1" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a1f7a181-a139-46e4-9175-b7852db071a3" width="240" alt="Screenshot 2" /></td>
+    <td><img src="https://github.com/user-attachments/assets/74d33903-0914-40a6-b4ba-10c82005c885" width="240" alt="Screenshot 3" /></td>
+    <td><img src="https://github.com/user-attachments/assets/0bbd4cd0-1b4e-49a0-ac0e-ba3bd74d312c" width="240" alt="Screenshot 4" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2c476fbc-9052-49d2-b351-b6be0e0b26c1" width="240" alt="Screenshot 5" /></td>
+    <td><img src="https://github.com/user-attachments/assets/d8ce8c37-0a41-451d-a4ad-9b7d6d1f8d58" width="240" alt="Screenshot 6" /></td>
+    <td><img src="https://github.com/user-attachments/assets/f90f7b3d-9e47-4ff8-9d04-19248889caa9" width="240" alt="Screenshot 7" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Requirements
 - Android Studio Flamingo (or latest stable)
