@@ -1,0 +1,1 @@
+Mobile port of a classic social-deduction table game — token selection, secret role reveals, and round scoring.
