@@ -49,4 +49,8 @@ Thumbs.db
 # Do not commit any files that contain keys or secrets
 **/gradle.properties
 *.keystore
+<<<<<<< HEAD
 *.jks
+=======
+*.jks
+>>>>>>> a576e4b (Initial commit)
