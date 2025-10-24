@@ -1,6 +1,14 @@
-# Thief‑Police — The Game
-
-A full Android game built with Jetpack Compose. This repository contains the complete version of the game developed in this project: token selection, role assignment and reveal, Babu instructions, Police guessing, scoring, and round progression.
+<table>
+  <tr>
+    <td width="120" valign="middle">
+      <img src="https://github.com/user-attachments/assets/c4375d7a-1214-448c-bd83-6d0b89a88e97" width="96" height="96" alt="Thief-Police icon">
+    </td>
+    <td valign="middle">
+      <h1>Thief‑Police — The Game</h1>
+      <p>Android game built with Jetpack Compose. This repository contains the complete version of the game developed in this project: token selection, role assignment and reveal, Babu instructions, Police guessing, scoring, and round progression.</p>
+    </td>
+  </tr>
+</table>
 
 ## Table of contents
 - [Demo](#demo)
@@ -9,7 +17,7 @@ A full Android game built with Jetpack Compose. This repository contains the com
 - [Requirements](#requirements)
 - [Run (Android Studio)](#run-android-studio)
 - [Build (command line)](#build-command-line)
-- [Release (signed APK/AAB)](#release-signed-apkaab)
+- [Release (signed APK/AAB)](#release-publish)
 - [Changelog](#changelog)
 - [Contributing](#contributing)
 - [License](#license)
