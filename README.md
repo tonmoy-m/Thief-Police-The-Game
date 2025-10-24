@@ -13,7 +13,7 @@
 ## Table of contents
 - [Demo](#demo)
 - [Features](#features)
-- [Wiki](https://github.com/tonmoy-m/Thief-Police-The-Game/wiki)
+- [Wiki](#wiki)
 - [Screenshot](#screenshot)
 - [Requirements](#requirements)
 - [Run (Android Studio)](#run-android-studio)
