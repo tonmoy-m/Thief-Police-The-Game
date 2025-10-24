@@ -87,7 +87,7 @@ From the project root:
 - Keep secrets and keystores out of the repo.
 
 ## License
-This project is licensed under the MIT License — see `LICENSE`.
+
 
 ## Contact
 GitHub: [@tonmoy-m](https://github.com/tonmoy-m)
