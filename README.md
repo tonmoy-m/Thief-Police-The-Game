@@ -13,6 +13,7 @@
 ## Table of contents
 - [Demo](#demo)
 - [Features](#features)
+- [Wiki](https://github.com/tonmoy-m/Thief-Police-The-Game/wiki)
 - [Screenshot](#screenshot)
 - [Requirements](#requirements)
 - [Run (Android Studio)](#run-android-studio)
@@ -42,6 +43,15 @@ Walkthrough:
 - Local CPU players with deterministic/randomized behavior
 - Clean separation of token ↔ role mapping for testability
 - Demo/test mode (quick flow) and full game mode
+
+## Wiki
+
+Detailed play instructions, scoring logic, examples, and FAQs are available on the project wiki:  
+https://github.com/tonmoy-m/Thief-Police-The-Game/wiki
+
+Quick links:
+- How to Play: https://github.com/tonmoy-m/Thief-Police-The-Game/wiki/How%20to%20Play
+- Scoring: https://github.com/tonmoy-m/Thief-Police-The-Game/wiki/Scoring
 
 ## Screenshot
 
