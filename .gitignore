@@ -1,34 +1,52 @@
-# Gradle files
+# Android / Kotlin / Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
 .gradle/
 build/
+**/build/
 
-# Local configuration file (sdk path, etc)
+# Local configuration files
 local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+*.iml
 
-# Keystore files
+# Android Studio captures
+captures/
+
+# External native build
+.externalNativeBuild/
+
+# Keystore (do not commit)
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Gradle wrapper - keep the jar, ignore others
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
 
-# Android Profiling
-*.hprof
+# Android Studio misc
+.navigation/
+.recommenders/
+
+# Kotlin
+*.kotlin_module
+
+# Generated files
+/generated/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Do not commit any files that contain keys or secrets
+**/gradle.properties
+*.keystore
+*.jks
