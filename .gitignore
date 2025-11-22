@@ -1,0 +1,56 @@
+# Android / Kotlin / Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration files
+local.properties
+.idea/
+*.iml
+
+# Android Studio captures
+captures/
+
+# External native build
+.externalNativeBuild/
+
+# Keystore (do not commit)
+*.jks
+*.keystore
+
+# Gradle wrapper - keep the jar, ignore others
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+
+# Android Studio misc
+.navigation/
+.recommenders/
+
+# Kotlin
+*.kotlin_module
+
+# Generated files
+/generated/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Do not commit any files that contain keys or secrets
+**/gradle.properties
+*.keystore
+<<<<<<< HEAD
+*.jks
+=======
+*.jks
+>>>>>>> a576e4b (Initial commit)
